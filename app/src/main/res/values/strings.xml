@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PasswordValidator</string>
+    <string name="edit_password">Enter Password</string>
+    <string name="button_send">Validate</string>
+</resources>
